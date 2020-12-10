@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_sortBy" type="id" />
+    <item name="search" type="id" />
+    <item name="meun_priority_high" type="id" />
+    <item name="menu_priority_high" type="id" />
+</resources>
